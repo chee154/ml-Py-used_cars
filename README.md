@@ -1,2 +1,2 @@
 # ml-Py-used_cars
-classification and regression modeling on used cars in the US
+Building classification Ensemble Models on used cars in the US.
