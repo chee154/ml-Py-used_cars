@@ -13,5 +13,6 @@ Description: In this exercise, we will be building on top of our Used_Car_Datase
 
 Contributers:<br />
 @chee154 (myself) <br />
-@sophiawu1006<br />
-@chiawang<br />
+@sophiawu1006 (Sophia)<br />
+@chiawang (Quena)<br />
+Dhruba
