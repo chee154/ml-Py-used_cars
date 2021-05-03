@@ -1,5 +1,5 @@
 # ml-Py-used_cars
-Building various classification Ensemble Models on used cars in the US to predict various nominal attributes
+Short Summary: Building various models on used cars in the US to predict various nominal attributes.
 
 This repository includes the following projects:
 1. **Used_Car_Lab_1_DataVisualization.ipynb:**
@@ -10,3 +10,8 @@ This repository includes the following projects:
 
 3. **Lab 2 - Group 2 - Used Cars Classification Models.ipynb:**
 * Description: In this exercise, we will be building on top of our Used_Car_Dataset we had analyized prior. The main goal we aim to address will be in modeling two of our nominal value attributes: 'Body_Type' and 'Has_Accidents'. We will use varying classification methods and techniques to evaluate if there are any significant differences in the models and ultimately decide on which model is best to use as a classifier.
+
+Contributers:
+@chee154
+@sophiawu1006
+@
