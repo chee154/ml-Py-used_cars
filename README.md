@@ -1,5 +1,5 @@
 # ml-Py-used_cars
-Short Summary: Building various models on used cars in the US to predict various nominal attributes. Additionally, we also build models to predict the borrowing behaviors lf lenders.
+Short Summary: Building various models on used cars in the US to predict various nominal attributes. Additionally, we also build models using Lending Tree data that aism to predict if a loan will be paid off on time or not.
 
 This repository includes the following projects:
 1. **Used_Car_Lab_1_DataVisualization.ipynb:**<br />
