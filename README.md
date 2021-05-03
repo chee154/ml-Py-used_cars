@@ -11,7 +11,7 @@ Description: In this section we will continue using our used car dataset and be 
 3. **Lab 2 - Group 2 - Used Cars Classification Models.ipynb:**<br />
 Description: In this exercise, we will be building on top of our Used_Car_Dataset we had analyized prior. The main goal we aim to address will be in modeling two of our nominal value attributes: 'Body_Type' and 'Has_Accidents'. We will use varying classification methods and techniques to evaluate if there are any significant differences in the models and ultimately decide on which model is best to use as a classifier.
 
-Contributers:
-@chee154<br />
+Contributers:<br />
+@chee154 (myself) <br />
 @sophiawu1006<br />
 @chiawang<br />
